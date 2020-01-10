@@ -7,6 +7,8 @@
 對圖片網站Pixiv做網路爬蟲，過濾不必要的圖片，上傳到Google Driver做資料庫。
 
 
+Main program : pixiv4.py
+
 Runing mode : 1.搜圖模式, 2.建Pixiv圖庫
 
 1.搜圖模式 : 爬取Pixiv圖片，透過otsu演算法、各顏色分布、圖片標籤、檔案大小過濾掉一部分不需要的圖，儲存到local端。
