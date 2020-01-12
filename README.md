@@ -33,7 +33,7 @@ Extra function :
 
 * pixiv_model.csv 、 fail.csv : 圖片資訊紀錄。
 
-過去更新紀錄
+過去開發紀錄
 ---------
 
 * 建一個pixiv的圖庫模組可能要十幾個小時需要的容量大約要十幾G(2007~2017)
