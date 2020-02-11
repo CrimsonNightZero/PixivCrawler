@@ -52,7 +52,7 @@ pixiv4_csv
 * csv轉存xlsx(方便使用)(csv自動存取導致格式亂碼)
 
 pixiv3_cookie
-* SHA1製作key
+* SHA256製作key
 * AES加密解密對cookie.xml
 
 ---------------------------------------------------
